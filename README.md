@@ -1,4 +1,5 @@
-# Raspberry Pi Pico Awesome List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Raspberry Pi Pico Awesome List
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https://www.raspberrypi.org/documentation/pico/getting-started/) is a 'low-cost, high-performance microcontroller board with flexible digital interfaces.'
 
 ## Contents
@@ -27,9 +28,15 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 ## Software/Tools
 
+- [Pico Examples](https://github.com/raspberrypi/pico-examples) - Raspberry Pi Pico SDK examples.
+- [Pico MicroPython Examples](https://github.com/raspberrypi/pico-micropython-examples) - Raspberry Pi Pico MicroPython examples.
+- [Pico SDK Repo](https://github.com/raspberrypi/pico-sdk) - Official Raspberry Pi Pico SDK repository.
+- [Pico C++ Setup Script](https://github.com/raspberrypi/pico-setup/blob/master/pico_setup.sh) - A BASH script for setting up the Pico C++ toolchain on your device.
 - [Picotool](https://github.com/raspberrypi/picotool) - 'Picotool is a tool for inspecting RP2040 binaries, and interacting with RP2040 devices when they are in BOOTSEL mode.' 
 - [Picoprobe](https://github.com/raspberrypi/picoprobe) - 'It is possible to use one Raspberry Pi Pico to debug another Pico. This is possible via picoprobe, an application that allows a Pico to act as a USB → SWD and UART converter.'
 - [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
+- [Thonny IDE](https://github.com/raspberrypi/thonny-pico) - Thonny IDE support for the Pico.
+- [Pico-Stub](https://github.com/cpwood/Pico-Stub) - MicroPython stubs; 'allowing you to benefit from Python code linting and autocompletion in Visual Studio Code.'
 
 ## Resources
 
@@ -45,6 +52,9 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 ### Community
 
 ### Projects
+
+- [Control an LED](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico) - Official Raspberry Pi documentation for setting up the Pico. Then controlling an LED with MicroPython.
+- [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro) - An official port of the TensorFlow Lite Micro library for the Pico.
 
 ### Tutorials
 
