@@ -12,7 +12,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
     - [Tutorials](#tutorials)
     - [Videos](#videos)
 
-### Documentation
+## Documentation
 
 - [Getting-Started](https://datasheets.raspberrypi.org/pico/getting-started-with-pico.pdf) - The official Pico getting started guide (PDF).
 - [Pico-SDK-C/C++](https://datasheets.raspberrypi.org/pico/raspberry-pi-pico-c-sdk.pdf) - The official Pico C/C++ SDK documentation (PDF).
@@ -25,29 +25,31 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [RP2040-Datasheet](https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf) - The official RP2040 datasheet (PDF).
 - [Hardware-Design](https://datasheets.raspberrypi.org/rp2040/hardware-design-with-rp2040.pdf) - The official hardware design with RP2040 (PDF).
 
-### Software/Tools
+## Software/Tools
 
 - repos links
 
 ### Resources
 
-## Blogs
+### Blogs
 
 - [Official-Pico-Announcement](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/) - The official Raspberry Pi Pico annoucement.
 - [MicroPython-Book](https://www.raspberrypi.org/blog/new-book-get-started-with-micropython-on-raspberry-pi-pico/) - New book available to help get you started with MicroPython on Raspberry Pi Pico.
 
-## Books
+### Books
 
 - [MicroPython-Pico](https://hackspace.raspberrypi.org/books/micropython-pico) - 'Get Started With MicroPython on Raspberry Pi Pico'.
 
-## Community
+### Community
 
-## Videos
+### Projects
+
+### Tutorials
+
+### Videos
 
 - [Raspberry-Pi-Pico-Ad](https://www.youtube.com/watch?v=o-tRJPCv0GA) - Raspberry Pi Foundation's Pico launch video.
 - [BBC-Micro-Emulation](https://www.youtube.com/watch?v=WaPJmCgseQw) - 'Full-speed high-fidelity BBC Micro emulation on a (slightly) overclocked Raspberry Pi Pico'
 - [Geerling-Pico-Review](https://www.youtube.com/watch?v=dUCgYXF01Do) - YouTuber Jeff Geerling reviews Raspberry Pi Pico.
 - [Hackster-Pico-Unboxing](https://www.youtube.com/watch?v=qHT9UR8MTrE) - Hackster.io partake in a recorded Raspberry Pi Pico unboxing.
 - [ETA-PRIME-Pico-First-Look](https://www.youtube.com/watch?v=IIBtAQQOZ90) - YouTuber ETA PRIME reviews Raspberry Pi Pico. 
-
-## Tutorials
