@@ -38,6 +38,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Resetting Pico Flash Memory](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c) - 'There is no way to brick the board through software. However, there are some circumstances where you might want to make sure your Flash memory is empty.'
 - [Thonny IDE](https://github.com/raspberrypi/thonny-pico) - Thonny IDE support for the Pico.
 - [Pico-Stub](https://github.com/cpwood/Pico-Stub) - MicroPython stubs; 'allowing you to benefit from Python code linting and autocompletion in Visual Studio Code.'
+- [Pimoroni Pico](https://github.com/pimoroni/pimoroni-pico) - 'Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.'
 
 ## Resources
 
@@ -45,6 +46,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 - [Official Pico Announcement](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/) - The official Raspberry Pi Pico annoucement.
 - [MicroPython Book](https://www.raspberrypi.org/blog/new-book-get-started-with-micropython-on-raspberry-pi-pico/) - New book available to help get you started with MicroPython on Raspberry Pi Pico.
+- [NeoPixel Dithering](https://www.raspberrypi.org/blog/neopixel-dithering-with-pico/) - HackSpace magazine look at NeoPixels with the Raspberry Pi Pico.
 
 ### Books
 
@@ -56,12 +58,12 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 
 - [Pico Tetris](https://github.com/rbirkby/picotetris) - 'Tetris on a Raspberry Pi Pico mounted on a Pimoroni Pico Explorer.'
 - [Pico Display Colour Change](https://github.com/shane-powell/pico-display-colour-change) - 'A Pico app using Pimoroni's display pack.'
-- [NeoPixel Dithering](https://www.raspberrypi.org/blog/neopixel-dithering-with-pico/) - HackSpace magazine look at NeoPixels with the Raspberry Pi Pico.
+- [Pico Lib for NeoPixels](https://github.com/benevpi/pico_python_ws2812b) - A Raspberry Pi Pico library for using NeoPixels (WS2812b LEDs).
 - [TensorFlow Lite Micro](https://github.com/raspberrypi/pico-tflmicro) - An official port of the TensorFlow Lite Micro library for the Pico.
 - [Rust Support Crate](https://github.com/devsnek/pio-rs) - Rust support crate for Pico's PIO architecture.
 - [morse4pico](https://github.com/slouchd/morse4pico) - Very simple Morse code script in MicroPython for the Raspberry Pi Pico.
 - [picoLCD](https://github.com/zadi15/picoLCD) - 'picoLCD is a collection of functions to make interfacing with HD44780 based LCD screens easier on the Raspberry Pi Pico.'
-- [Balloon Tracking](http://www.daveakerman.com/?p=2737) - Dave Akerman creates a Raspberry Pi Pico weather balloon tracking device.
+- [Balloon Tracking](http://www.daveakerman.com/?p=2737) - Dave Akerman creates a Raspberry Pi Pico weather balloon tracking device. Code is available at https://github.com/daveake/pico-tracker
 
 ### Tutorials
 
