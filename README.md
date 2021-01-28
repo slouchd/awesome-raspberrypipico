@@ -7,7 +7,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Documentation](#documentation)
 - [Software/Tools](#software-tools)
 - [Resources](#resources)
-	- [Blogs](#blogs)
+    - [Blogs](#blogs)
     - [Books](#books)
     - [Community](#community)
     - [Projects](#projects)
@@ -64,6 +64,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [morse4pico](https://github.com/slouchd/morse4pico) - Very simple Morse code script in MicroPython for the Raspberry Pi Pico.
 - [picoLCD](https://github.com/zadi15/picoLCD) - 'picoLCD is a collection of functions to make interfacing with HD44780 based LCD screens easier on the Raspberry Pi Pico.'
 - [Balloon Tracking](http://www.daveakerman.com/?p=2737) - Dave Akerman creates a Raspberry Pi Pico weather balloon tracking device. Code is available at https://github.com/daveake/pico-tracker
+- [Pico Snake](https://github.com/Tohaker/pico-snake) - Snake for the Raspberry Pi Pico, running on the Pimoroni Pico Explorer.
 
 ### Tutorials
 
