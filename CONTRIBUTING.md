@@ -13,8 +13,8 @@ Please read these basic rules before opening an issue or pull request (PR).
 ## How To Submit
 
 1. Go to the root of repository and click README.md
-2. Click the *pencil button* in the upper right corner next to raw | blame | history
+2. Click the ***pencil button*** in the upper right corner next to raw | blame | history
 3. Github will automatically create a fork for this repo on your account.
 4. Additionally add content or edit where necessary.
-5. At the bottom of the page fill in a meaningful commit summary and click *Propose file change*.
-6. You'll be taken to the PR screen, click the *Create Pull Request* button
+5. At the bottom of the page fill in a meaningful commit summary and click ***Propose file change***.
+6. You will be taken to the PR screen, click the ***Create Pull Request*** button.
