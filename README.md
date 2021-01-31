@@ -47,6 +47,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Official Pico Announcement](https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/) - The official Raspberry Pi Pico annoucement.
 - [MicroPython Book](https://www.raspberrypi.org/blog/new-book-get-started-with-micropython-on-raspberry-pi-pico/) - New book available to help get you started with MicroPython on Raspberry Pi Pico.
 - [NeoPixel Dithering](https://www.raspberrypi.org/blog/neopixel-dithering-with-pico/) - HackSpace magazine look at NeoPixels with the Raspberry Pi Pico.
+- [Closer Look at RP2040](https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/) - A closer look at Raspberry Pi RP2040 programmable I/Os (PIOs).
 
 ### Books
 
