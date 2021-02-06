@@ -66,6 +66,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [picoLCD](https://github.com/zadi15/picoLCD) - 'picoLCD is a collection of functions to make interfacing with HD44780 based LCD screens easier on the Raspberry Pi Pico.'
 - [Balloon Tracking](http://www.daveakerman.com/?p=2737) - Dave Akerman creates a Raspberry Pi Pico weather balloon tracking device. Code is available at https://github.com/daveake/pico-tracker
 - [Pico Snake](https://github.com/Tohaker/pico-snake) - Snake for the Raspberry Pi Pico, running on the Pimoroni Pico Explorer.
+- [Annoying Book Mark](https://github.com/rhipps/Annoying-Book-Mark) - A bookmark that counts the amount of time that has passed since you last opened your book.
 
 ### Tutorials
 
