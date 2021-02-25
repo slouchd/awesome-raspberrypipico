@@ -13,7 +13,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
     - [Projects](#projects)
     - [Tutorials](#tutorials)
     - [Videos](#videos)
-- [Others RP2040 boards](#others-board)
+- [Others RP2040 boards](#others-rp2040-boards)
     - [Arduino](#arduino)
     - [Pimonori](#pimonori)
          - [Tiny 2040](#tiny-2040)
@@ -94,11 +94,11 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 #### Pimonori                                                                    
 - [Tiny 2040](https://shop.pimoroni.com/products/tiny-2040)
 
-#### Adafruit                                                                    
+#### Adafruit                                                                    
 - Feather 2040
 - ItsyBitsy 2040
 
-### Sparkfun                                                                    
+#### Sparkfun                                                                    
 - Pro Micro
 - Thing Plus
 - Micro Mod
