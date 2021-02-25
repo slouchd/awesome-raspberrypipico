@@ -13,6 +13,12 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
     - [Projects](#projects)
     - [Tutorials](#tutorials)
     - [Videos](#videos)
+- [Others RP2040 boards](#others-board)
+    - [Arduino](#arduino)
+    - [Pimonori](#pimonori)
+         - [Tiny 2040](#tiny-2040)
+    - [Adafruits](#ada-fruits)
+    - [Sparkfun](#sparkfun)
 
 ## Documentation
 
@@ -79,3 +85,20 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Geerling Pico Review](https://www.youtube.com/watch?v=dUCgYXF01Do) - YouTuber Jeff Geerling reviews Raspberry Pi Pico.
 - [Hackster Pico Unboxing](https://www.youtube.com/watch?v=qHT9UR8MTrE) - Hackster.io partake in a recorded Raspberry Pi Pico unboxing.
 - [ETA PRIME Pico First Look](https://www.youtube.com/watch?v=IIBtAQQOZ90) - YouTuber ETA PRIME reviews Raspberry Pi Pico. 
+
+### Others RP2040 Boards
+
+#### Arduino                                                                     
+- Nano RP2040 Connect
+
+#### Pimonori                                                                    
+- [Tiny 2040](https://shop.pimoroni.com/products/tiny-2040)
+
+#### Adafruit                                                                    
+- Feather 2040
+- ItsyBitsy 2040
+
+### Sparkfun                                                                    
+- Pro Micro
+- Thing Plus
+- Micro Mod
