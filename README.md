@@ -48,6 +48,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [MicroPython Book](https://www.raspberrypi.org/blog/new-book-get-started-with-micropython-on-raspberry-pi-pico/) - New book available to help get you started with MicroPython on Raspberry Pi Pico.
 - [NeoPixel Dithering](https://www.raspberrypi.org/blog/neopixel-dithering-with-pico/) - HackSpace magazine look at NeoPixels with the Raspberry Pi Pico.
 - [Closer Look at RP2040](https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/) - A closer look at Raspberry Pi RP2040 programmable I/Os (PIOs).
+- [ML On Raspberry Pi Pico](https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/) - Machine Learning on Raspberry Pi Pico with Tensorflow Lite Micro and Arducam.
 
 ### Books
 
@@ -67,6 +68,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Balloon Tracking](http://www.daveakerman.com/?p=2737) - Dave Akerman creates a Raspberry Pi Pico weather balloon tracking device. Code is available at https://github.com/daveake/pico-tracker
 - [Pico Snake](https://github.com/Tohaker/pico-snake) - Snake for the Raspberry Pi Pico, running on the Pimoroni Pico Explorer.
 - [Annoying Book Mark](https://github.com/rhipps/Annoying-Book-Mark) - A bookmark that counts the amount of time that has passed since you last opened your book.
+- [Pico Bird](https://github.com/andreban/pico-bird) - A Flappy Bird implementation for the Raspberry Pi Pico and the Pimoroni Pico Display.
 
 ### Tutorials
 
