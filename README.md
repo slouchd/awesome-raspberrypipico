@@ -71,6 +71,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Pico Bird](https://github.com/andreban/pico-bird) - A Flappy Bird implementation for the Raspberry Pi Pico and the Pimoroni Pico Display.
 - [Pico Streamdeck](https://github.com/pjgpetecodes/pico-streamdeck) - OBS Controller using a Raspberry Pi Pico and CircuitPython.
 - [Pico Invaders](https://github.com/printnplay/Pico-MicroPython/blob/main/picoinvaders.py) - Space Invaders port for the Raspberry Pi Pico.
+- [Pico Effects](https://github.com/tuupola/pico_effects) - Old school demo effects for Raspberry Pi Pico.
 
 ### Tutorials
 
