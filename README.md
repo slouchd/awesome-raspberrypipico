@@ -75,6 +75,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Pico LoRaWAN](https://github.com/sandeepmistry/pico-lorawan) - Enable LoRaWAN communications on your Raspberry Pi Pico or any RP2040 based board.
 - [Buzzer Music](https://github.com/james1236/buzzer_music) - Raspberry Pi Pico / Micropython library to play music through one or more buzzers.
 - [Pico WiFi Driver](https://github.com/myvobot/pi_pico_wifi_driver) - A simple driver using AT command to access WiFi on the Pico.
+- [Pico Solar System](https://github.com/dr-mod/pico-solar-system) - A miniature device depicting the relative position of the planets in Solar System.
 
 ### Tutorials
 
