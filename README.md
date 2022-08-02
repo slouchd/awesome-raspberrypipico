@@ -9,7 +9,6 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Resources](#resources)
     - [Blogs](#blogs)
     - [Books](#books)
-    - [Community](#community)
     - [Projects](#projects)
     - [Tutorials](#tutorials)
     - [Videos](#videos)
@@ -53,8 +52,6 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 ### Books
 
 - [MicroPython Pico](https://hackspace.raspberrypi.org/books/micropython-pico) - 'Get Started With MicroPython on Raspberry Pi Pico'.
-
-### Community
 
 ### Projects
 
