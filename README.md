@@ -49,6 +49,10 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Closer Look at RP2040](https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/) - A closer look at Raspberry Pi RP2040 programmable I/Os (PIOs).
 - [ML On Raspberry Pi Pico](https://www.arducam.com/raspberry-pi-pico-tensorflow-lite-micro-person-detection-arducam/) - Machine Learning on Raspberry Pi Pico with Tensorflow Lite Micro and Arducam.
 
+### Forums
+
+- [Official Pico Forums](https://forums.raspberrypi.com/viewforum.php?f=143) - The official Raspberry Pi Pico forums, where you can have answers from very capable enthusiats, and even foundation's engineers, too.
+
 ### Books
 
 - [MicroPython Pico](https://hackspace.raspberrypi.org/books/micropython-pico) - 'Get Started With MicroPython on Raspberry Pi Pico'.
