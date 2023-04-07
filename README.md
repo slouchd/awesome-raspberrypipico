@@ -74,6 +74,7 @@ This is a Curation of Raspberry Pi Pico resources. The Raspberry Pi [Pico](https
 - [Pico WiFi Driver](https://github.com/myvobot/pi_pico_wifi_driver) - A simple driver using AT command to access WiFi on the Pico.
 - [Pico Solar System](https://github.com/dr-mod/pico-solar-system) - A miniature device depicting the relative position of the planets in Solar System.
 - [Blindr](https://github.com/m12t/blindr) - Automated window blinds that open at sunrise and close at sunset.
+- [Pico W Webserver Example](https://github.com/krzmaz/pico-w-webserver-example) - Example implementation of a blazingly fast web server on Pico W using Pico C SDK.
 
 ### Tutorials
 
